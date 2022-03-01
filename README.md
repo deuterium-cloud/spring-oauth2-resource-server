@@ -57,7 +57,7 @@ public class SecurityConfig {
 ```
 <br>
 
-The main properties must be set:
+The main properties which must be set:
 
 ```yaml
 spring:
